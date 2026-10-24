@@ -1,0 +1,22 @@
+{
+  "sample_A": {
+    "task": "knife preparation: two onions and sweet potato",
+    "duration_seconds": 66.0,
+    "frames": 1979,
+    "keysteps": 13,
+    "phases": 3,
+    "structural_errors": 0
+  },
+  "sample_B": {
+    "task": "pouring seasonings and stirring",
+    "duration_seconds": 65.967,
+    "frames": 1978,
+    "keysteps": 12,
+    "phases": 3,
+    "structural_errors": 0
+  },
+  "imu_hz": 410.6,
+  "video_fps": 30,
+  "random_sets": 2000,
+  "source": "https://origindatalab.io/technical-field-notes/keystep-annotation-egocentric-robot-learning.html"
+}

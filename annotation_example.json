@@ -1,0 +1,15 @@
+{
+  "id": "ks_A_01",
+  "t_start": 0.0,
+  "t_end": 7.5,
+  "phase": "onion_A_preparation",
+  "verb": "peel",
+  "object": "onion_A",
+  "tool": "knife",
+  "active_hand": "left",
+  "support_hand": "right",
+  "instruction": "Hold and rotate onion_A with the right hand while removing outer material with a knife in the left hand.",
+  "state_before": "onion_A with outer material",
+  "state_after": "onion_A partially peeled",
+  "outcome": "success"
+}
